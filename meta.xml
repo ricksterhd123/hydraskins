@@ -1,0 +1,15 @@
+<meta>
+    <info author="[SW]Exile" description="A script that select random hydra skin on enter" version="1.0.0" type="script"/>
+
+    <file src="replace.fx" type="client"/>
+
+    <file src="skins/blue.png" type="client"/>
+    <file src="skins/flames.png" type="client"/>
+    <file src="skins/galaxy.png" type="client"/>
+    <file src="skins/hero.png" type="client"/>
+    <file src="skins/sw.png" type="client"/>
+    <file src="skins/uw.png" type="client"/>
+
+    <script src="client.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+</meta>
